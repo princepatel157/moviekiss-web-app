@@ -1,6 +1,6 @@
 .header {
   height: 50px;
-  background-color: aquamarine;
+  background-color: rgb(66, 240, 182);
   display: flex;
   align-items: center;
 }
