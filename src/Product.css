@@ -1,0 +1,19 @@
+.product {
+  display: flex;
+  flex-direction: column;
+  /* align-items: center; */
+  width: 200px;
+  height: 400px;
+  margin-left: 60px;
+  margin-top: 50px;
+  background-color: white;
+}
+.product_img {
+  width: 100%;
+  height: 100%;
+}
+.product_info {
+  font-weight: 500;
+  padding-left: 3px;
+  text-align: center;
+}

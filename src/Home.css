@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.home {
+  background-color: #f3f0e7;
+  /* margin-left: 10px; */
+}
+.detail_bar {
+  margin-top: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+  color: #f3f0e7;
+  background-color: rgb(6, 71, 6);
+  height: 50px;
+}
+.detail {
+  text-align: center;
+  padding-top: 10px;
+}
+.rows {
+  display: flex;
+  align-items: center;
+}

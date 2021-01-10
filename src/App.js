@@ -1,15 +1,24 @@
 import React from "react";
 import "./App.css";
 import Home from "./Home.js";
+import Header from "./Header.js";
+import Cat from "./Catog.js";
 import { Route, Switch } from "react-router-dom";
-import "../node_modules/bootstrap/dist/css/bootstrap.min.css";
-import "../node_modules/bootstrap/dist/js/bootstrap.bundle.min.js.map";
 
 function App() {
   return (
     <>
       <Switch>
-        <Route exact path="/" component={Home} />
+        <Route exact path="/">
+          <Header />
+          <Cat />
+          <Home />
+        </Route>
+        <Route exact path="/contact">
+          <Header />
+          <Cat />
+          <h2>contact page</h2>
+        </Route>
       </Switch>
     </>
   );
