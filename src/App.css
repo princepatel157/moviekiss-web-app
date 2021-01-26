@@ -3,3 +3,14 @@
   padding: 0px;
   box-sizing: border-box;
 }
+.footer {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  background-color: white;
+  /* margin-left: 300px;
+  margin-right: 200px; */
+  /* align-content: center; */
+}
+.footer_text {
+  text-align: center;
+}

@@ -29,5 +29,17 @@ const Items = [
       "Download Marvel Studios: Legends (Season 1) {English With Subtitles} WeB-HD 720p [70MB] || 1080p [180MB]",
     image: "legends.jpg",
   },
+  {
+    id: 6,
+    name:
+      "Download Marvel Studios: Legends (Season 1) {English With Subtitles} WeB-HD 720p [70MB] || 1080p [180MB]",
+    image: "legends.jpg",
+  },
+  {
+    id: 7,
+    name:
+      "Download Marvel Studios: Legends (Season 1) {English With Subtitles} WeB-HD 720p [70MB] || 1080p [180MB]",
+    image: "legends.jpg",
+  },
 ];
 export default Items;

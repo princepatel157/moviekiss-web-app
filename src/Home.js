@@ -17,7 +17,7 @@ function Home() {
           </div>
         </div>
 
-        {/* product */}
+        {/* products*/}
         <div className="rows">
           {Items.map((val) => {
             return <Product name={val.name} image={val.image} />;

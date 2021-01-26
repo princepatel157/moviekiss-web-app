@@ -20,6 +20,13 @@ function App() {
           <h2>contact page</h2>
         </Route>
       </Switch>
+      {/* footer */}
+      <div className="footer">
+        <div className="footer_text">
+          About Us | Report Broken Links | Request Us | DMCA | Contact Us | Site
+          Disclaimer
+        </div>
+      </div>
     </>
   );
 }

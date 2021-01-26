@@ -19,6 +19,8 @@
   padding-top: 10px;
 }
 .rows {
+  width: 1500px;
   display: flex;
   align-items: center;
+  flex-wrap: wrap;
 }
